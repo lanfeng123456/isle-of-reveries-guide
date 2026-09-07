@@ -1,0 +1,235 @@
+[
+  {
+    "route": "/",
+    "status": 200,
+    "title": "Isle of Reveries Guide — Puzzles, Bosses & Equipment",
+    "h1": "Find the next step inIsle of Reveries",
+    "canonical": "http://localhost:4173/",
+    "schemas": [
+      "WebSite"
+    ],
+    "hasOverflow": false,
+    "consoleErrors": []
+  },
+  {
+    "route": "/guides/",
+    "status": 200,
+    "title": "Isle of Reveries Guides: Puzzles, Bosses & Items",
+    "h1": "All guides",
+    "canonical": "http://localhost:4173/guides/",
+    "schemas": [
+      "BreadcrumbList",
+      "ItemList"
+    ],
+    "hasOverflow": false,
+    "consoleErrors": []
+  },
+  {
+    "route": "/dungeons/",
+    "status": 200,
+    "title": "Isle of Reveries Dungeons Guides | Reveries Guide",
+    "h1": "Dungeons",
+    "canonical": "http://localhost:4173/dungeons/",
+    "schemas": [
+      "BreadcrumbList",
+      "ItemList"
+    ],
+    "hasOverflow": false,
+    "consoleErrors": []
+  },
+  {
+    "route": "/bosses/",
+    "status": 200,
+    "title": "Isle of Reveries Bosses Guides | Reveries Guide",
+    "h1": "Bosses",
+    "canonical": "http://localhost:4173/bosses/",
+    "schemas": [
+      "BreadcrumbList",
+      "ItemList"
+    ],
+    "hasOverflow": false,
+    "consoleErrors": []
+  },
+  {
+    "route": "/guides/getting-started/",
+    "status": 200,
+    "title": "Isle of Reveries Opening Equipment and Pictograph Box",
+    "h1": "Isle of Reveries Opening Equipment and Pictograph Box",
+    "canonical": "http://localhost:4173/guides/getting-started/",
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "hasOverflow": false,
+    "consoleErrors": []
+  },
+  {
+    "route": "/guides/copy-and-spawn/",
+    "status": 200,
+    "title": "Isle of Reveries Copy and Spawn: Limits, Direction and Puzzle Uses",
+    "h1": "Isle of Reveries Copy and Spawn: Limits, Direction and Puzzle Uses",
+    "canonical": "http://localhost:4173/guides/copy-and-spawn/",
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "hasOverflow": false,
+    "consoleErrors": []
+  },
+  {
+    "route": "/dungeons/pilgrims-sanctum/",
+    "status": 200,
+    "title": "Isle of Reveries Pilgrim’s Sanctum: 3 Puzzle Solutions",
+    "h1": "Pilgrim’s Sanctum Puzzle Guide: Block, Statue and Fire Arrow",
+    "canonical": "http://localhost:4173/dungeons/pilgrims-sanctum/",
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "hasOverflow": false,
+    "consoleErrors": []
+  },
+  {
+    "route": "/bosses/fermata/",
+    "status": 200,
+    "title": "How to Beat Fermata in Isle of Reveries | Reveries Guide",
+    "h1": "How to Beat Fermata in Isle of Reveries",
+    "canonical": "http://localhost:4173/bosses/fermata/",
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "hasOverflow": false,
+    "consoleErrors": []
+  },
+  {
+    "route": "/dungeons/overgrown-shrine/",
+    "status": 200,
+    "title": "Isle of Reveries Overgrown Shrine: Moving Door and Eye Statue Help",
+    "h1": "Overgrown Shrine: Moving Door and Eye Statue Help",
+    "canonical": "http://localhost:4173/dungeons/overgrown-shrine/",
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "hasOverflow": false,
+    "consoleErrors": []
+  },
+  {
+    "route": "/bosses/strix/",
+    "status": 200,
+    "title": "Isle of Reveries Strix, Knight of Ill Omen: Fight Pattern and Openings",
+    "h1": "Strix, Knight of Ill Omen: Fight Pattern and Openings",
+    "canonical": "http://localhost:4173/bosses/strix/",
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "hasOverflow": false,
+    "consoleErrors": []
+  },
+  {
+    "route": "/bosses/fiend-shen/",
+    "status": 200,
+    "title": "Isle of Reveries Fiend-Shen: Tail Target and Changing Arena",
+    "h1": "Fiend-Shen: Tail Target and Changing Arena",
+    "canonical": "http://localhost:4173/bosses/fiend-shen/",
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "hasOverflow": false,
+    "consoleErrors": []
+  },
+  {
+    "route": "/bosses/cronos/",
+    "status": 200,
+    "title": "Isle of Reveries Cronos: Escape the Restraint and Use the Rift Wand",
+    "h1": "Cronos: Escape the Restraint and Use the Rift Wand",
+    "canonical": "http://localhost:4173/bosses/cronos/",
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "hasOverflow": false,
+    "consoleErrors": []
+  },
+  {
+    "route": "/bosses/arbiter-of-reveries/",
+    "status": 200,
+    "title": "Isle of Reveries The Arbiter of Reveries: Eyes, Tongue and Beam Phases",
+    "h1": "The Arbiter of Reveries: Eyes, Tongue and Beam Phases",
+    "canonical": "http://localhost:4173/bosses/arbiter-of-reveries/",
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "hasOverflow": false,
+    "consoleErrors": []
+  },
+  {
+    "route": "/guides/controller-not-working/",
+    "status": 200,
+    "title": "Isle of Reveries Controller Not Working: PC Troubleshooting",
+    "h1": "Isle of Reveries Controller Not Working: PC Troubleshooting",
+    "canonical": "http://localhost:4173/guides/controller-not-working/",
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "hasOverflow": false,
+    "consoleErrors": []
+  },
+  {
+    "route": "/guides/swimming/",
+    "status": 200,
+    "title": "Isle of Reveries Swim Suit: Swimming Unlock and Pickup Room",
+    "h1": "Swim Suit: Swimming Unlock and Pickup Room",
+    "canonical": "http://localhost:4173/guides/swimming/",
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "hasOverflow": false,
+    "consoleErrors": []
+  },
+  {
+    "route": "/guides/rift-wand/",
+    "status": 200,
+    "title": "Isle of Reveries Rift Wand: Pickup Room and Position Swapping",
+    "h1": "Rift Wand: Pickup Room and Position Swapping",
+    "canonical": "http://localhost:4173/guides/rift-wand/",
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "hasOverflow": false,
+    "consoleErrors": []
+  },
+  {
+    "route": "/guides/clawncher/",
+    "status": 200,
+    "title": "Isle of Reveries Claw’ncher: Pickup Room and Pulling Uses",
+    "h1": "Claw’ncher: Pickup Room and Pulling Uses",
+    "canonical": "http://localhost:4173/guides/clawncher/",
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "hasOverflow": false,
+    "consoleErrors": []
+  },
+  {
+    "route": "/guides/gaki-after-miasma/",
+    "status": 200,
+    "title": "Isle of Reveries Gaki: What to Do After Clearing the Miasma",
+    "h1": "Isle of Reveries Gaki: What to Do After Clearing the Miasma",
+    "canonical": "http://localhost:4173/guides/gaki-after-miasma/",
+    "schemas": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "hasOverflow": false,
+    "consoleErrors": []
+  }
+]

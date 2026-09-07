@@ -1,0 +1,311 @@
+[
+  {
+    "id": "REVIEW-COPY",
+    "evidence_inspected": "官方 VtYJbNxOTlI 380、384–387 秒；本页相应操作记录",
+    "conclusion_and_limits": "游戏原文说明一次仅存储/创建一个对象；右块复制到左板后南门打开。保留。不是全对象清单。",
+    "status": "verified",
+    "date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "installed_build": null,
+    "hands_on_test": false,
+    "review_scope": "Only the claim and limits in this record; source count does not imply full route or current-build testing"
+  },
+  {
+    "id": "REVIEW-OWL",
+    "evidence_inspected": "社区 xDWKhkQXONI 1779–1784 秒；既有官方 430/460 秒对照",
+    "conclusion_and_limits": "蓝色缺位放置后北侧红刺变灰并通过。保留具体房间，不写完整第一地牢。",
+    "status": "verified",
+    "date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "installed_build": null,
+    "hands_on_test": false,
+    "review_scope": "Only the claim and limits in this record; source count does not imply full route or current-build testing"
+  },
+  {
+    "id": "REVIEW-PIT",
+    "evidence_inspected": "官方 VtYJbNxOTlI 611–615 秒",
+    "conclusion_and_limits": "先点左火盆、左侧放右向射手，远端火盆点燃。单官方，明确标注。",
+    "status": "verified",
+    "date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "installed_build": null,
+    "hands_on_test": false,
+    "review_scope": "Only the claim and limits in this record; source count does not imply full route or current-build testing"
+  },
+  {
+    "id": "REVIEW-FERMATA",
+    "evidence_inspected": "官方 VtYJbNxOTlI 674–685 秒；社区 tPOV3h2anQA 75–114 秒",
+    "conclusion_and_limits": "两侧火焰传递、四火盆暴露、中央射手收尾、最大生命与 Fairy Key 文字。双录像，保留已观察循环。",
+    "status": "verified",
+    "date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "installed_build": null,
+    "hands_on_test": false,
+    "review_scope": "Only the claim and limits in this record; source count does not imply full route or current-build testing"
+  },
+  {
+    "id": "REVIEW-ROOM",
+    "evidence_inspected": "[开发者提示](https://steamcommunity.com/app/3100970/discussions/0/583933098654442513/) 本轮完整重读",
+    "conclusion_and_limits": "2F 移门→开门→复位；复制时眼睛方向重要。玩家解决反馈不是独立实机复现。以官方提示发布，不作完整路线。",
+    "status": "verified",
+    "date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "installed_build": null,
+    "hands_on_test": false,
+    "review_scope": "Only the claim and limits in this record; source count does not imply full route or current-build testing"
+  },
+  {
+    "id": "REVIEW-STRIX",
+    "evidence_inspected": "社区 tPOV3h2anQA 174.00–175.75 秒 0.25 秒间隔；官方 FtdR-AmXyuw 941–950 秒",
+    "conclusion_and_limits": "爪伸出、绿色本体被拉出、剑攻击可见；不是自动落地暴露。保留 Claw’ncher→剑击步骤。",
+    "status": "verified",
+    "date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "installed_build": null,
+    "hands_on_test": false,
+    "review_scope": "Only the claim and limits in this record; source count does not imply full route or current-build testing"
+  },
+  {
+    "id": "REVIEW-FIEND",
+    "evidence_inspected": "社区 tPOV3h2anQA 444–455 秒；官方 b6XsmDuPFHQ 1016–1034 秒",
+    "conclusion_and_limits": "躯干消失后仍有小尾部目标，标记与 Fairy Slinger 发射对应；大头同时出现受击画面。保留追踪小目标，不编剑击阶段。",
+    "status": "verified",
+    "date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "installed_build": null,
+    "hands_on_test": false,
+    "review_scope": "Only the claim and limits in this record; source count does not imply full route or current-build testing"
+  },
+  {
+    "id": "REVIEW-TOOLS",
+    "evidence_inspected": "官方 AoBWijuLUzQ 1002–1004 秒完整菜单",
+    "conclusion_and_limits": "明确 FAIRY SLINGER 与 CLAW'NCHER；不是凭图标猜名称。两段同作者录像不算两个独立来源。",
+    "status": "verified",
+    "date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "installed_build": null,
+    "hands_on_test": false,
+    "review_scope": "Only the claim and limits in this record; source count does not imply full route or current-build testing"
+  },
+  {
+    "id": "REVIEW-RIFT-TEXT",
+    "evidence_inspected": "官方 gtP9qErKUNI 496.25、497.125、498–500 秒",
+    "conclusion_and_limits": "文本明确 Rift Wand、穿墙魔法、交换 Lief 与小对象或敌人；后续装备槽可见。位置和规则为单官方；不推全目标/范围。",
+    "status": "verified",
+    "date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "installed_build": null,
+    "hands_on_test": false,
+    "review_scope": "Only the claim and limits in this record; source count does not imply full route or current-build testing"
+  },
+  {
+    "id": "REVIEW-CRONOS-SWAP",
+    "evidence_inspected": "官方 gtP9qErKUNI 1070–1071 秒；社区 tPOV3h2anQA 741–742 秒",
+    "conclusion_and_limits": "魔杖飞向蓝物件后 Lief 在上沿、蓝物件在原地。双录像确认交换。",
+    "status": "verified",
+    "date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "installed_build": null,
+    "hands_on_test": false,
+    "review_scope": "Only the claim and limits in this record; source count does not imply full route or current-build testing"
+  },
+  {
+    "id": "REVIEW-CRONOS-BLUE",
+    "evidence_inspected": "官方 gtP9qErKUNI 1075–1077.75 秒 0.25 秒间隔，尤其 1077.25→1077.50；社区 tPOV3h2anQA 738–744 秒",
+    "conclusion_and_limits": "原地蓝物件消失并蓝色爆散，靠近的 Cronos 紫色闪烁；另一次布置后同样结果。可保留重复的布置与引导走位策略。**接触、近距、计时三种触发机制没有区分，属 uncertain；删去把接触说成确定原因的措辞。**",
+    "status": "verified",
+    "date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "installed_build": null,
+    "hands_on_test": false,
+    "review_scope": "Only the claim and limits in this record; source count does not imply full route or current-build testing"
+  },
+  {
+    "id": "REVIEW-ARBITER",
+    "evidence_inspected": "官方 AoBWijuLUzQ 1024–1035 秒；社区 tPOV3h2anQA 1070–1088 秒",
+    "conclusion_and_limits": "眼睛全暗后舌头可见，爪具出击、受击、退场、光束；保留循环。终局要求不在范围。",
+    "status": "verified",
+    "date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "installed_build": null,
+    "hands_on_test": false,
+    "review_scope": "Only the claim and limits in this record; source count does not imply full route or current-build testing"
+  },
+  {
+    "id": "REVIEW-PAD",
+    "evidence_inspected": "[开发者支持帖](https://steamcommunity.com/app/3100970/discussions/0/583933098654383762/) 本轮完整重读",
+    "conclusion_and_limits": "原生不识别才使用 Steam Input + Keyboard to Gamepad；受支持手柄禁用重复输入；8BitDo Ultimate 2C 强制 X-input 是型号限定建议；开发者称补丁应解决字形重置，不能写已实测普遍修复。",
+    "status": "verified",
+    "date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "installed_build": null,
+    "hands_on_test": false,
+    "review_scope": "Only the claim and limits in this record; source count does not imply full route or current-build testing"
+  },
+  {
+    "id": "REVIEW-SWIM",
+    "evidence_inspected": "官方 b6XsmDuPFHQ 601 秒完整拾取说明；既有水中移动 660/900 秒",
+    "conclusion_and_limits": "Swim Suit 教会游泳为明确游戏文字。单官方，保留取得房地标，不写完整取得路线或危险地形免疫。",
+    "status": "verified",
+    "date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "installed_build": null,
+    "hands_on_test": false,
+    "review_scope": "Only the claim and limits in this record; source count does not imply full route or current-build testing"
+  },
+  {
+    "id": "REVIEW-CLAW",
+    "evidence_inspected": "官方 FtdR-AmXyuw 218–229 秒；官方 AoBWijuLUzQ 1004 秒；独立 Strix 片段",
+    "conclusion_and_limits": "拾取功能原文是拉物件和弱敌人；226–228 秒伸爪后出现绿桥并过桥。**“房间入口在左”没有画面支持，删除。**取得仅房间地标，战斗应用有独立证明。",
+    "status": "verified",
+    "date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "installed_build": null,
+    "hands_on_test": false,
+    "review_scope": "Only the claim and limits in this record; source count does not imply full route or current-build testing"
+  },
+  {
+    "id": "REVIEW-CAMERA",
+    "evidence_inspected": "社区 xDWKhkQXONI 658–666、670–672 秒",
+    "conclusion_and_limits": "相机名称、拍敌人、Quest → Creature Album 原文清晰；装备状态可见。**未观察照片→成功入册流程，且只有一社区来源；可信直接游戏文字不等于通过双源验收。01/14 降级。**完整菜单文本在 666 秒，修正原 664 秒链接。",
+    "status": "uncertain",
+    "date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "installed_build": null,
+    "hands_on_test": false,
+    "review_scope": "Only the claim and limits in this record; source count does not imply full route or current-build testing"
+  },
+  {
+    "id": "REVIEW-GAKI",
+    "evidence_inspected": "官方 DyXuZp3hzQs 1128–1140、1214–1225 秒；社区 tPOV3h2anQA 856–868 秒既有记录",
+    "conclusion_and_limits": "本轮实看清除原文及 Gaki 红→棕、恢复、最大生命奖励。只支持清除后回访；社区片段跳过清除前置，不支持完整净化路线。删除未核实的前置战斗诊断。",
+    "status": "verified",
+    "date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "installed_build": null,
+    "hands_on_test": false,
+    "review_scope": "Only the claim and limits in this record; source count does not imply full route or current-build testing"
+  },
+  {
+    "id": "REVIEW-RAT",
+    "evidence_inspected": "[开发者回答](https://steamcommunity.com/app/3100970/discussions/0/583933421007477976/) 本轮完整重读",
+    "conclusion_and_limits": "第一地牢与药水店不能对话；保留第一地牢短问答，不把其他新信息扩成未授权新页。",
+    "status": "verified",
+    "date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "installed_build": null,
+    "hands_on_test": false,
+    "review_scope": "Only the claim and limits in this record; source count does not imply full route or current-build testing"
+  },
+  {
+    "id": "REVIEW-CRONOS-TRIGGER",
+    "status": "uncertain",
+    "claim": "Exact contact, proximity or timed trigger for blue objects",
+    "resolution": "Not asserted in revised reader instructions",
+    "date": "2026-09-07",
+    "review_scope": "Only the claim and limits in this record; source count does not imply full route or current-build testing"
+  },
+  {
+    "id": "REVIEW-CRONOS-ESCAPE",
+    "status": "verified",
+    "evidence_inspected": "Developer gtP9qErKUNI 1058–1067; independent tPOV3h2anQA 717–721, directly re-inspected this turn",
+    "claim": "Fairy can copy the green source while Lief restrained; creating on the centre runner below Lief precedes release in official sequence; community sequence confirms copied source and release",
+    "installed_build": null,
+    "date": "2026-09-07"
+  },
+  {
+    "id": "REVIEW-OPENING",
+    "status": "uncertain",
+    "claim": "Lantern, sword and Pictograph Box opening pickup order",
+    "evidence_inspected": "Original article and metadata show one xDWKhkQXONI source; camera text re-inspected directly; no independent confirmation added",
+    "resolution": "Merged opening draft withheld",
+    "date": "2026-09-07"
+  },
+  {
+    "id": "FOLLOWUP-OPENING",
+    "status": "verified",
+    "claim": "Recorded lantern, sword, camera pickup landmarks and order",
+    "sources": [
+      "xDWKhkQXONI",
+      "PYlXDEyMHNs"
+    ],
+    "seconds": {
+      "xDWKhkQXONI": [
+        320,
+        500,
+        660
+      ],
+      "PYlXDEyMHNs": [
+        430,
+        822,
+        1155,
+        1157,
+        1165
+      ]
+    },
+    "limits": "Independent recordings; exact builds unknown; no continuous entrance-to-item route",
+    "collected_date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "build": null,
+    "hands_on_test": false
+  },
+  {
+    "id": "FOLLOWUP-CAMERA-FLOW",
+    "status": "verified",
+    "claim": "Equip camera, face the nearby round yellow enemy, capture notification, then view revealed round-creature portrait and Drops icon in Creature Album",
+    "sources": [
+      "PYlXDEyMHNs",
+      "xDWKhkQXONI"
+    ],
+    "seconds": {
+      "PYlXDEyMHNs": [
+        1165,
+        1173.125,
+        1173.25,
+        1174,
+        1190,
+        1195,
+        1205,
+        1208,
+        1214,
+        1265
+      ],
+      "xDWKhkQXONI": [
+        662,
+        666,
+        670,
+        672
+      ]
+    },
+    "limits": "New recording supplies actual operation chain; original recording independently supplies game instructions and equipping, not a second complete capture-to-album reproduction. No camera-range or full-creature-list claim",
+    "collected_date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "build": null,
+    "hands_on_test": false
+  },
+  {
+    "id": "FOLLOWUP-ALBUM-MENU",
+    "status": "conflicting",
+    "claim": "Pickup text says Quest; observed menu places Creature Album under Collect",
+    "sources": [
+      "xDWKhkQXONI",
+      "PYlXDEyMHNs"
+    ],
+    "seconds": {
+      "xDWKhkQXONI": [
+        666
+      ],
+      "PYlXDEyMHNs": [
+        1190,
+        1195,
+        1205,
+        1208
+      ]
+    },
+    "resolution": "Reader steps follow visible Collect example and explicitly explain Quest wording discrepancy; cause and build differences unknown",
+    "collected_date": "2026-09-07",
+    "timezone": "Asia/Shanghai",
+    "build": null,
+    "hands_on_test": false
+  }
+]

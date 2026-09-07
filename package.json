@@ -1,0 +1,14 @@
+{
+  "name": "isle-of-reveries-guide",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check-site.mjs && python scripts/verify-icons.py",
+    "preview": "node scripts/preview-server.mjs"
+  },
+  "dependencies": {
+    "marked": "18.0.11"
+  }
+}

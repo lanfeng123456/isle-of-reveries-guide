@@ -1,0 +1,135 @@
+[
+  {
+    "id": "VtYJbNxOTlI",
+    "url": "https://www.youtube.com/watch?v=VtYJbNxOTlI",
+    "title": "Pilgrim's Sanctum Walkthrough",
+    "author": "Isle of Reveries",
+    "upload_date": "20260805",
+    "duration_seconds": 740,
+    "views_at_extraction": 167,
+    "build": null,
+    "type": "developer_gameplay",
+    "collected_date": "2026-09-07"
+  },
+  {
+    "id": "tPOV3h2anQA",
+    "url": "https://www.youtube.com/watch?v=tPOV3h2anQA",
+    "title": "Isle of Reveries - All Bosses and Ending",
+    "author": "CrankyTemplar",
+    "upload_date": "20260905",
+    "duration_seconds": 1301,
+    "views_at_extraction": 2013,
+    "build": null,
+    "type": "independent_gameplay",
+    "collected_date": "2026-09-07"
+  },
+  {
+    "id": "xDWKhkQXONI",
+    "url": "https://www.youtube.com/watch?v=xDWKhkQXONI",
+    "title": "Isle of Reveries PC Gameplay",
+    "author": "gocalibergaming",
+    "upload_date": "20260904",
+    "duration_seconds": 2440,
+    "views_at_extraction": 861,
+    "build": null,
+    "type": "independent_gameplay",
+    "collected_date": "2026-09-07"
+  },
+  {
+    "id": "FtdR-AmXyuw",
+    "url": "https://www.youtube.com/watch?v=FtdR-AmXyuw",
+    "title": "Overgrown Shrine Walkthrough",
+    "author": "Isle of Reveries",
+    "upload_date": "20260715",
+    "duration_seconds": 1073,
+    "views_at_extraction": 129,
+    "build": null,
+    "type": "developer_gameplay",
+    "collected_date": "2026-09-07"
+  },
+  {
+    "id": "gtP9qErKUNI",
+    "url": "https://www.youtube.com/watch?v=gtP9qErKUNI",
+    "title": "Timelocked Villa Walkthrough",
+    "author": "Isle of Reveries",
+    "upload_date": "20260728",
+    "duration_seconds": 1195,
+    "views_at_extraction": 38,
+    "build": null,
+    "type": "developer_gameplay",
+    "collected_date": "2026-09-07"
+  },
+  {
+    "id": "b6XsmDuPFHQ",
+    "url": "https://www.youtube.com/watch?v=b6XsmDuPFHQ",
+    "title": "Wyrms Remains Walkthrough",
+    "author": "Isle of Reveries",
+    "upload_date": "20260727",
+    "duration_seconds": 1189,
+    "views_at_extraction": 50,
+    "build": null,
+    "type": "developer_gameplay",
+    "collected_date": "2026-09-07"
+  },
+  {
+    "id": "AoBWijuLUzQ",
+    "url": "https://www.youtube.com/watch?v=AoBWijuLUzQ",
+    "title": "Final Dungeon Walkthrough",
+    "author": "Isle of Reveries",
+    "upload_date": "20260728",
+    "duration_seconds": 1113,
+    "views_at_extraction": 20,
+    "build": null,
+    "type": "developer_gameplay",
+    "collected_date": "2026-09-07"
+  },
+  {
+    "id": "DyXuZp3hzQs",
+    "url": "https://www.youtube.com/watch?v=DyXuZp3hzQs",
+    "title": "Snowcloaked Mine Walkthrough",
+    "author": "Isle of Reveries",
+    "upload_date": "20260728",
+    "duration_seconds": 1236,
+    "views_at_extraction": 26,
+    "build": null,
+    "type": "developer_gameplay",
+    "collected_date": "2026-09-07"
+  },
+  {
+    "id": "DEV-INDEX",
+    "url": "https://steamcommunity.com/app/3100970/discussions/0/583933098654470806/",
+    "type": "developer_post",
+    "summary": "Developer links level 1–5, final dungeon and Garden of Ambition recordings; Gyre guide coming soon. Official-video identity basis."
+  },
+  {
+    "id": "DEV-ROOM",
+    "url": "https://steamcommunity.com/app/3100970/discussions/0/583933098654442513/",
+    "type": "developer_answer",
+    "summary": "2F door movement hint and eye orientation at copying; player reports solving eye puzzle."
+  },
+  {
+    "id": "DEV-PAD",
+    "url": "https://steamcommunity.com/app/3100970/discussions/0/583933098654383762/",
+    "type": "developer_support",
+    "summary": "Native input vs Steam Input branch, Keyboard to Gamepad, glyph selection, model-specific X-input advice, update and optional GameInput notes."
+  },
+  {
+    "id": "DEV-RAT",
+    "url": "https://steamcommunity.com/app/3100970/discussions/0/583933421007477976/",
+    "type": "developer_answer",
+    "summary": "Rat in first dungeon/potion shop is not conversational, including reported Cheese-equipped case."
+  },
+  {
+    "id": "PYlXDEyMHNs",
+    "url": "https://www.youtube.com/watch?v=PYlXDEyMHNs",
+    "title": "Isle of Reveries Gameplay - Part 1 - Forsake or Wish? - A New Retro-inspired Adventure Begins!",
+    "author": "Sooo Mungry",
+    "upload_date": "20260905",
+    "duration_seconds": 5296,
+    "views_at_extraction": 672,
+    "build": null,
+    "type": "independent_gameplay",
+    "collected_date": "2026-09-07",
+    "use": "core_followup_evidence"
+  }
+]

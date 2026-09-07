@@ -1,0 +1,750 @@
+{
+  "game_id": "steam:3100970",
+  "date": "2026-09-07",
+  "timezone": "Asia/Shanghai",
+  "scope": "15 original drafts map to 14 final content units. All 14 ready within explicitly reviewed scope after opening-camera followup; SEO acceptance remains separate.",
+  "pages": [
+    {
+      "id": "IOR-EXP-01",
+      "file": "pages/01-getting-started.md",
+      "url": "/guides/getting-started/",
+      "title": "Isle of Reveries Opening Equipment and Pictograph Box",
+      "seo_title": "Isle of Reveries Opening Equipment and Pictograph Box",
+      "seo_description": "Identify early equipment, equip the Pictograph Box and follow a recorded capture-to-album example, including the Quest and Collect menu difference.",
+      "query": "Isle of Reveries beginner guide",
+      "query_origin": "research-derived; user authorized expanded scope",
+      "demand_status": "unvalidated",
+      "content_status": "ready_for_build",
+      "publishable_scope": "Two-recording equipment landmarks plus attributed capture-to-album example; Collect/Quest label discrepancy explicitly explained. Not a complete opening route or creature checklist",
+      "limitations": "Exact video builds unknown. Full capture-to-album demonstration is from Sooo Mungry; original PC recording corroborates game text and equipping. Menu text mismatch remains unresolved; no all-version claim",
+      "source_ids": [
+        "PYlXDEyMHNs",
+        "VtYJbNxOTlI",
+        "tPOV3h2anQA",
+        "xDWKhkQXONI"
+      ],
+      "internal_links": [
+        "02-copy-and-spawn.md",
+        "03-pilgrims-sanctum.md",
+        "04-fermata.md",
+        "10-controller-help.md"
+      ],
+      "image_need": "Original schematic or permission-cleared game capture; private research frames are not cleared publication assets",
+      "schema": "Article + BreadcrumbList only when implemented accurately; no fabricated review/rating",
+      "interaction": "Anchored headings and source timestamp links",
+      "word_count": 616,
+      "original_id": "IOR-EXP-01",
+      "original_file": "20260907-ten-page-expansion\\pages\\01-getting-started.md",
+      "original_sha256": "3c4d34f94d15d701e0f4c7bddcb2085588b061b1ca41444054c43db95c8ec864",
+      "publication_decision": "ready_within_scope",
+      "keyword_gate": "structural_disposition_received; formal search-volume/opportunity acceptance remains separate",
+      "review_changes": [
+        "降级：开场拾取顺序仅单社区视频；收窄标题到录像地标",
+        "按 game_scout 建议将14相机合并成节；合并稿继续暂缓，不自动升级",
+        "续核：新独立录像补齐开场装备和相机操作链；真实Collect菜单与Quest文本差异显式保留，按录像限定范围解除暂缓"
+      ],
+      "review_method": "Direct reread of source documents and targeted local video frames; not hands-on gameplay",
+      "reviewed_date": "2026-09-07",
+      "original_ids": [
+        "IOR-EXP-01",
+        "IOR-EXP-14"
+      ],
+      "original_fact_id": "F01",
+      "fact_ids": [
+        "FOLLOWUP-OPENING",
+        "FOLLOWUP-CAMERA-FLOW",
+        "FOLLOWUP-ALBUM-MENU"
+      ],
+      "facts_file": "facts.json",
+      "followup_report": "续核报告-开场与相机.md"
+    },
+    {
+      "id": "IOR-EXP-02",
+      "file": "pages/02-copy-and-spawn.md",
+      "url": "/guides/copy-and-spawn/",
+      "title": "Isle of Reveries Copy and Spawn: Limits, Direction and Puzzle Uses",
+      "seo_title": "Isle of Reveries Copy and Spawn: Limits, Direction and Puzzle Uses",
+      "seo_description": "Understand the one-object limit, source direction and alignment checks for blocks, statues and fire-arrow puzzles.",
+      "query": "Isle of Reveries copy spawn guide",
+      "query_origin": "research-derived; user authorized expanded scope",
+      "demand_status": "unvalidated",
+      "content_status": "ready_for_build",
+      "publishable_scope": "Mechanism diagnosis across rooms; does not duplicate complete room instructions",
+      "limitations": "Eye-direction explanation is attributed official guidance; no exhaustive object list.",
+      "source_ids": [
+        "VtYJbNxOTlI",
+        "xDWKhkQXONI",
+        "DEV-ROOM"
+      ],
+      "internal_links": [
+        "03-pilgrims-sanctum.md",
+        "04-fermata.md"
+      ],
+      "image_need": "Original schematic or permission-cleared game capture; private research frames are not cleared publication assets",
+      "schema": "Article + BreadcrumbList only when implemented accurately; no fabricated review/rating",
+      "interaction": "Anchored headings and source timestamp links",
+      "word_count": 375,
+      "original_id": "IOR-EXP-02",
+      "original_file": "20260907-ten-page-expansion\\pages\\02-copy-and-spawn.md",
+      "original_sha256": "4e160998f4c2aa5be94b25b7228758cc0ef4f04b57114d06e108bfa2cbde7ef6",
+      "publication_decision": "ready_within_scope",
+      "keyword_gate": "structural_disposition_received; formal search-volume/opportunity acceptance remains separate",
+      "review_changes": [
+        "保留核心机制；缩短研究过程说明"
+      ],
+      "review_method": "Direct reread of source documents and targeted local video frames; not hands-on gameplay",
+      "reviewed_date": "2026-09-07",
+      "original_ids": [
+        "IOR-EXP-02"
+      ],
+      "original_fact_id": "F02",
+      "fact_ids": [
+        "REVIEW-COPY",
+        "REVIEW-ROOM"
+      ],
+      "facts_file": "facts.json"
+    },
+    {
+      "id": "IOR-EXP-03",
+      "file": "pages/03-pilgrims-sanctum.md",
+      "url": "/dungeons/pilgrims-sanctum/",
+      "title": "Pilgrim’s Sanctum Puzzle Guide: Block, Statue and Fire Arrow",
+      "seo_title": "Isle of Reveries Pilgrim’s Sanctum: 3 Puzzle Solutions",
+      "seo_description": "Solve the fairy-room block, missing blue statue and pit brazier in Pilgrim’s Sanctum, with video checkpoints.",
+      "query": "Isle of Reveries first dungeon puzzles",
+      "query_origin": "research-derived; user authorized expanded scope",
+      "demand_status": "unvalidated",
+      "content_status": "ready_for_build",
+      "publishable_scope": "Three concrete puzzle solutions; boss details moved to Fermata page",
+      "limitations": "Pit solution remains single official source; coloured rolling block only a reference, not a written solution. Continuous route incomplete.",
+      "source_ids": [
+        "VtYJbNxOTlI",
+        "xDWKhkQXONI",
+        "DEV-RAT"
+      ],
+      "internal_links": [
+        "04-fermata.md"
+      ],
+      "image_need": "Original schematic or permission-cleared game capture; private research frames are not cleared publication assets",
+      "schema": "Article + BreadcrumbList only when implemented accurately; no fabricated review/rating",
+      "interaction": "Anchored headings and source timestamp links",
+      "word_count": 411,
+      "original_id": "IOR-EXP-03",
+      "original_file": "20260907-ten-page-expansion\\pages\\03-pilgrims-sanctum.md",
+      "original_sha256": "691de23c3ad92d515af9565996ad7992aab4545347f836add834a6347edb9b1d",
+      "publication_decision": "ready_within_scope",
+      "keyword_gate": "structural_disposition_received; formal search-volume/opportunity acceptance remains separate",
+      "review_changes": [
+        "删除未写解法的滚动彩块段，避免空承诺；保留三机关与rat官方答案"
+      ],
+      "review_method": "Direct reread of source documents and targeted local video frames; not hands-on gameplay",
+      "reviewed_date": "2026-09-07",
+      "original_ids": [
+        "IOR-EXP-03"
+      ],
+      "original_fact_id": "F03",
+      "fact_ids": [
+        "REVIEW-COPY",
+        "REVIEW-OWL",
+        "REVIEW-PIT",
+        "REVIEW-RAT"
+      ],
+      "facts_file": "facts.json"
+    },
+    {
+      "id": "IOR-EXP-04",
+      "file": "pages/04-fermata.md",
+      "url": "/bosses/fermata/",
+      "title": "How to Beat Fermata in Isle of Reveries",
+      "seo_title": "How to Beat Fermata in Isle of Reveries",
+      "seo_description": "Beat Fermata by relighting four braziers, placing copied shooters through flames and collecting the Fairy Key.",
+      "query": "Isle of Reveries Fermata boss guide",
+      "query_origin": "research-derived; user authorized expanded scope",
+      "demand_status": "unvalidated",
+      "content_status": "ready_for_build",
+      "publishable_scope": "Full observed lighting and shooter fight loop",
+      "limitations": "Two fights agree; no fixed hit counts or latest-patch test.",
+      "source_ids": [
+        "VtYJbNxOTlI",
+        "tPOV3h2anQA"
+      ],
+      "internal_links": [
+        "02-copy-and-spawn.md",
+        "03-pilgrims-sanctum.md"
+      ],
+      "image_need": "Original schematic or permission-cleared game capture; private research frames are not cleared publication assets",
+      "schema": "Article + BreadcrumbList only when implemented accurately; no fabricated review/rating",
+      "interaction": "Anchored headings and source timestamp links",
+      "word_count": 379,
+      "original_id": "IOR-EXP-04",
+      "original_file": "20260907-ten-page-expansion\\pages\\04-fermata.md",
+      "original_sha256": "4a4f0eec42239e2abeac2fbf27b9464325bd9b87453f424873ffb77423db3770",
+      "publication_decision": "ready_within_scope",
+      "keyword_gate": "structural_disposition_received; formal search-volume/opportunity acceptance remains separate",
+      "review_changes": [
+        "保留已核实火盆与射箭循环；缩短研究过程说明"
+      ],
+      "review_method": "Direct reread of source documents and targeted local video frames; not hands-on gameplay",
+      "reviewed_date": "2026-09-07",
+      "original_ids": [
+        "IOR-EXP-04"
+      ],
+      "original_fact_id": "F04",
+      "fact_ids": [
+        "REVIEW-FERMATA"
+      ],
+      "facts_file": "facts.json"
+    },
+    {
+      "id": "IOR-EXP-05",
+      "file": "pages/05-overgrown-shrine.md",
+      "url": "/dungeons/overgrown-shrine/",
+      "title": "Overgrown Shrine: Moving Door and Eye Statue Help",
+      "seo_title": "Isle of Reveries Overgrown Shrine: Moving Door and Eye Statue Help",
+      "seo_description": "Follow the second-floor moving-door hint and check eye-statue copying direction in Overgrown Shrine.",
+      "query": "Isle of Reveries moving floor door eye statue",
+      "query_origin": "research-derived; user authorized expanded scope",
+      "demand_status": "unvalidated",
+      "content_status": "ready_for_build",
+      "publishable_scope": "Two developer-answered blockers; not full dungeon walkthrough",
+      "limitations": "Exact written hint is developer guidance; player follow-up supports usefulness, not independent reproduction. Video supports dungeon identity/layout.",
+      "source_ids": [
+        "DEV-ROOM",
+        "FtdR-AmXyuw"
+      ],
+      "internal_links": [
+        "02-copy-and-spawn.md",
+        "06-strix.md",
+        "13-clawncher.md"
+      ],
+      "image_need": "Original schematic or permission-cleared game capture; private research frames are not cleared publication assets",
+      "schema": "Article + BreadcrumbList only when implemented accurately; no fabricated review/rating",
+      "interaction": "Anchored headings and source timestamp links",
+      "word_count": 380,
+      "original_id": "IOR-EXP-05",
+      "original_file": "20260907-ten-page-expansion\\pages\\05-overgrown-shrine.md",
+      "original_sha256": "cd8b7e7ce10582cdaa1472c5bc8d6e3ba0f7eeea967b85435d0584f5ea686a6f",
+      "publication_decision": "ready_within_scope",
+      "keyword_gate": "structural_disposition_received; formal search-volume/opportunity acceptance remains separate",
+      "review_changes": [
+        "保留开发者提示属性；移除面向作者的猜测警告"
+      ],
+      "review_method": "Direct reread of source documents and targeted local video frames; not hands-on gameplay",
+      "reviewed_date": "2026-09-07",
+      "original_ids": [
+        "IOR-EXP-05"
+      ],
+      "original_fact_id": "F05",
+      "fact_ids": [
+        "REVIEW-ROOM"
+      ],
+      "facts_file": "facts.json"
+    },
+    {
+      "id": "IOR-EXP-06",
+      "file": "pages/06-strix.md",
+      "url": "/bosses/strix/",
+      "title": "Strix, Knight of Ill Omen: Fight Pattern and Openings",
+      "seo_title": "Isle of Reveries Strix, Knight of Ill Omen: Fight Pattern and Openings",
+      "seo_description": "Use the Claw’ncher after Strix lands, attack the exposed green figure and watch later flames and moving obstacles.",
+      "query": "Isle of Reveries Strix boss guide",
+      "query_origin": "research-derived; user authorized expanded scope",
+      "demand_status": "unvalidated",
+      "content_status": "ready_for_build",
+      "publishable_scope": "Armour extraction, exposed target and later arena hazards",
+      "limitations": "Quarter-second independent frames resolve claw extraction; developer sequence corroborates separation and sword follow-up. No alternate-weapon testing.",
+      "source_ids": [
+        "tPOV3h2anQA",
+        "FtdR-AmXyuw",
+        "AoBWijuLUzQ"
+      ],
+      "internal_links": [
+        "05-overgrown-shrine.md"
+      ],
+      "image_need": "Original schematic or permission-cleared game capture; private research frames are not cleared publication assets",
+      "schema": "Article + BreadcrumbList only when implemented accurately; no fabricated review/rating",
+      "interaction": "Anchored headings and source timestamp links",
+      "word_count": 393,
+      "original_id": "IOR-EXP-06",
+      "original_file": "20260907-ten-page-expansion\\pages\\06-strix.md",
+      "original_sha256": "26bd28eaf320a8ded6905af7c4be34f92fedb18b283d86ba8a5c341dab590a8a",
+      "publication_decision": "ready_within_scope",
+      "keyword_gate": "structural_disposition_received; formal search-volume/opportunity acceptance remains separate",
+      "review_changes": [
+        "删除四分之一秒采样过程叙述；保留拉取和剑击动作"
+      ],
+      "review_method": "Direct reread of source documents and targeted local video frames; not hands-on gameplay",
+      "reviewed_date": "2026-09-07",
+      "original_ids": [
+        "IOR-EXP-06"
+      ],
+      "original_fact_id": "F06",
+      "fact_ids": [
+        "REVIEW-STRIX",
+        "REVIEW-TOOLS"
+      ],
+      "facts_file": "facts.json"
+    },
+    {
+      "id": "IOR-EXP-07",
+      "file": "pages/07-fiend-shen.md",
+      "url": "/bosses/fiend-shen/",
+      "title": "Fiend-Shen: Tail Target and Changing Arena",
+      "seo_title": "Isle of Reveries Fiend-Shen: Tail Target and Changing Arena",
+      "seo_description": "Track Fiend-Shen’s marked tail with the Fairy Slinger and continue targeting it after the segments disappear.",
+      "query": "Isle of Reveries Fiend Shen boss guide",
+      "query_origin": "research-derived; user authorized expanded scope",
+      "demand_status": "unvalidated",
+      "content_status": "ready_for_build",
+      "publishable_scope": "Marked tail and detached tail target across terrain states",
+      "limitations": "Same targeting pattern in both recordings; no invulnerable centre claim or fixed damage count.",
+      "source_ids": [
+        "tPOV3h2anQA",
+        "b6XsmDuPFHQ",
+        "AoBWijuLUzQ"
+      ],
+      "internal_links": [
+        "09-arbiter.md"
+      ],
+      "image_need": "Original schematic or permission-cleared game capture; private research frames are not cleared publication assets",
+      "schema": "Article + BreadcrumbList only when implemented accurately; no fabricated review/rating",
+      "interaction": "Anchored headings and source timestamp links",
+      "word_count": 391,
+      "original_id": "IOR-EXP-07",
+      "original_file": "20260907-ten-page-expansion\\pages\\07-fiend-shen.md",
+      "original_sha256": "698f41acb65b5b8e802bf8fec58815ea80804bc8674a76daed8565862d849568",
+      "publication_decision": "ready_within_scope",
+      "keyword_gate": "structural_disposition_received; formal search-volume/opportunity acceptance remains separate",
+      "review_changes": [
+        "保留尾端与分离尾端目标；删除装备命名研究过程"
+      ],
+      "review_method": "Direct reread of source documents and targeted local video frames; not hands-on gameplay",
+      "reviewed_date": "2026-09-07",
+      "original_ids": [
+        "IOR-EXP-07"
+      ],
+      "original_fact_id": "F07",
+      "fact_ids": [
+        "REVIEW-FIEND",
+        "REVIEW-TOOLS"
+      ],
+      "facts_file": "facts.json"
+    },
+    {
+      "id": "IOR-EXP-08",
+      "file": "pages/08-cronos.md",
+      "url": "/bosses/cronos/",
+      "title": "Cronos: Escape the Restraint and Use the Rift Wand",
+      "seo_title": "Isle of Reveries Cronos: Escape the Restraint and Use the Rift Wand",
+      "seo_description": "Escape the restraint and use the Rift Wand to place blue objects in the arena, following the positioning pattern shown in two recordings.",
+      "query": "Isle of Reveries Cronos Chronos restraint",
+      "query_origin": "research-derived; user authorized expanded scope",
+      "demand_status": "unvalidated",
+      "content_status": "ready_for_build",
+      "publishable_scope": "Opening escape, verified position exchange and observed blue-object positioning strategy; exact contact/proximity/timed trigger unresolved",
+      "limitations": "Item text resolves exchange mechanism; two recordings support blue-object positioning and damage. Official blue-object name, precise trigger radius/timing and fixed hit counts remain unknown.",
+      "source_ids": [
+        "tPOV3h2anQA",
+        "gtP9qErKUNI"
+      ],
+      "internal_links": [
+        "02-copy-and-spawn.md",
+        "12-rift-wand.md",
+        "15-gaki-after-miasma.md"
+      ],
+      "image_need": "Original schematic or permission-cleared game capture; private research frames are not cleared publication assets",
+      "schema": "Article + BreadcrumbList only when implemented accurately; no fabricated review/rating",
+      "interaction": "Anchored headings and source timestamp links",
+      "word_count": 765,
+      "original_id": "IOR-EXP-08",
+      "original_file": "20260907-ten-page-expansion\\pages\\08-cronos.md",
+      "original_sha256": "cdd6591c8acfdba083a175baa120605483468c188b4872be0993bd446b886303",
+      "publication_decision": "ready_within_scope",
+      "keyword_gate": "structural_disposition_received; formal search-volume/opportunity acceptance remains separate",
+      "review_changes": [
+        "伤害段改为录像支持的布置策略，删确定碰撞触发措辞；收窄标题"
+      ],
+      "review_method": "Direct reread of source documents and targeted local video frames; not hands-on gameplay",
+      "reviewed_date": "2026-09-07",
+      "original_ids": [
+        "IOR-EXP-08"
+      ],
+      "original_fact_id": "F08",
+      "fact_ids": [
+        "REVIEW-CRONOS-SWAP",
+        "REVIEW-CRONOS-BLUE",
+        "REVIEW-CRONOS-TRIGGER",
+        "REVIEW-RIFT-TEXT",
+        "REVIEW-CRONOS-ESCAPE"
+      ],
+      "facts_file": "facts.json"
+    },
+    {
+      "id": "IOR-EXP-09",
+      "file": "pages/09-arbiter.md",
+      "url": "/bosses/arbiter-of-reveries/",
+      "title": "The Arbiter of Reveries: Eyes, Tongue and Beam Phases",
+      "seo_title": "Isle of Reveries The Arbiter of Reveries: Eyes, Tongue and Beam Phases",
+      "seo_description": "Use Fairy Slinger shots on the Arbiter’s eyes, the Claw’ncher on its tongue and avoid the sweeping beams.",
+      "query": "Isle of Reveries final boss guide",
+      "query_origin": "research-derived; user authorized expanded scope",
+      "demand_status": "unvalidated",
+      "content_status": "ready_for_build",
+      "publishable_scope": "Two tool interactions and beam avoidance; excludes endings",
+      "limitations": "Direct gear labels and two recordings; exact damage count and perfect-ending requirements not established.",
+      "source_ids": [
+        "tPOV3h2anQA",
+        "AoBWijuLUzQ"
+      ],
+      "internal_links": [
+        "02-copy-and-spawn.md"
+      ],
+      "image_need": "Original schematic or permission-cleared game capture; private research frames are not cleared publication assets",
+      "schema": "Article + BreadcrumbList only when implemented accurately; no fabricated review/rating",
+      "interaction": "Anchored headings and source timestamp links",
+      "word_count": 415,
+      "original_id": "IOR-EXP-09",
+      "original_file": "20260907-ten-page-expansion\\pages\\09-arbiter.md",
+      "original_sha256": "92f45a3985e1821405a7e9d6f29a9625fd7a0b4eedada6863b30a8ec5f5801a4",
+      "publication_decision": "ready_within_scope",
+      "keyword_gate": "structural_disposition_received; formal search-volume/opportunity acceptance remains separate",
+      "review_changes": [
+        "保留两工具循环，压缩研究说明"
+      ],
+      "review_method": "Direct reread of source documents and targeted local video frames; not hands-on gameplay",
+      "reviewed_date": "2026-09-07",
+      "original_ids": [
+        "IOR-EXP-09"
+      ],
+      "original_fact_id": "F09",
+      "fact_ids": [
+        "REVIEW-ARBITER",
+        "REVIEW-TOOLS"
+      ],
+      "facts_file": "facts.json"
+    },
+    {
+      "id": "IOR-EXP-10",
+      "file": "pages/10-controller-help.md",
+      "url": "/guides/controller-not-working/",
+      "title": "Isle of Reveries Controller Not Working: PC Troubleshooting",
+      "seo_title": "Isle of Reveries Controller Not Working: PC Troubleshooting",
+      "seo_description": "Troubleshoot PC controller recognition, duplicate inputs and glyphs using the Isle of Reveries developer’s device-specific advice.",
+      "query": "Isle of Reveries controller not working",
+      "query_origin": "research-derived; user authorized expanded scope",
+      "demand_status": "unvalidated",
+      "content_status": "ready_for_build",
+      "publishable_scope": "PC input diagnosis, not multiplayer setup",
+      "limitations": "Explicitly single official support source; no hands-on compatibility matrix or installer execution.",
+      "source_ids": [
+        "DEV-PAD"
+      ],
+      "internal_links": [
+        "03-pilgrims-sanctum.md"
+      ],
+      "image_need": "Original schematic or permission-cleared game capture; private research frames are not cleared publication assets",
+      "schema": "Article + BreadcrumbList only when implemented accurately; no fabricated review/rating",
+      "interaction": "Anchored headings and source timestamp links",
+      "word_count": 400,
+      "original_id": "IOR-EXP-10",
+      "original_file": "20260907-ten-page-expansion\\pages\\10-controller-help.md",
+      "original_sha256": "3d7202adc97e3de0648c08e043e3d6491c324520c69ec1065a35783977127d0f",
+      "publication_decision": "ready_within_scope",
+      "keyword_gate": "structural_disposition_received; formal search-volume/opportunity acceptance remains separate",
+      "review_changes": [
+        "重新读取当前开发者支持帖；保留不识别与双输入分支"
+      ],
+      "review_method": "Direct reread of source documents and targeted local video frames; not hands-on gameplay",
+      "reviewed_date": "2026-09-07",
+      "original_ids": [
+        "IOR-EXP-10"
+      ],
+      "original_fact_id": "F10",
+      "fact_ids": [
+        "REVIEW-PAD"
+      ],
+      "facts_file": "facts.json"
+    },
+    {
+      "id": "IOR-EXP-11",
+      "file": "pages/11-swimming.md",
+      "url": "/guides/swimming/",
+      "title": "Swim Suit: Swimming Unlock and Pickup Room",
+      "seo_title": "Isle of Reveries Swim Suit: Swimming Unlock and Pickup Room",
+      "seo_description": "Identify the Swim Suit pickup room in Wyrm’s Remains and understand its swimming unlock. Includes the developer’s pickup checkpoint.",
+      "query": "Isle of Reveries how to swim Swim Suit",
+      "query_origin": "research-derived; user authorized expanded scope",
+      "demand_status": "unvalidated",
+      "content_status": "ready_for_build",
+      "publishable_scope": "Swimming unlock text and final pickup-room landmarks; no entrance-to-item route",
+      "limitations": "Single official footage with legible pickup text and subsequent water traversal; no independent reward confirmation.",
+      "source_ids": [
+        "b6XsmDuPFHQ"
+      ],
+      "internal_links": [
+        "07-fiend-shen.md"
+      ],
+      "image_need": "Original schematic or permission-cleared game capture; private research frames are not cleared publication assets",
+      "schema": "Article + BreadcrumbList only when implemented accurately; no fabricated review/rating",
+      "interaction": "Anchored headings and source timestamp links",
+      "word_count": 338,
+      "original_id": "IOR-EXP-11",
+      "original_file": "20260907-ten-page-expansion\\pages\\11-swimming.md",
+      "original_sha256": "44074c2264a14f17e745387f230b75d2e9bd8ee429d204fc87dd956794a948d5",
+      "publication_decision": "ready_within_scope",
+      "keyword_gate": "structural_disposition_received; formal search-volume/opportunity acceptance remains separate",
+      "review_changes": [
+        "标题明确仅拾取房间；保留单官方声明"
+      ],
+      "review_method": "Direct reread of source documents and targeted local video frames; not hands-on gameplay",
+      "reviewed_date": "2026-09-07",
+      "original_ids": [
+        "IOR-EXP-11"
+      ],
+      "original_fact_id": "F11",
+      "fact_ids": [
+        "REVIEW-SWIM"
+      ],
+      "facts_file": "facts.json"
+    },
+    {
+      "id": "IOR-EXP-12",
+      "file": "pages/12-rift-wand.md",
+      "url": "/guides/rift-wand/",
+      "title": "Rift Wand: Pickup Room and Position Swapping",
+      "seo_title": "Isle of Reveries Rift Wand: Pickup Room and Position Swapping",
+      "seo_description": "Identify the Rift Wand pickup room and learn position swapping from the item text and a combat example. No full dungeon route.",
+      "query": "Isle of Reveries Rift Wand location how to use",
+      "query_origin": "research-derived; user authorized expanded scope",
+      "demand_status": "unvalidated",
+      "content_status": "ready_for_build",
+      "publishable_scope": "Final pickup-room landmarks, item description and position-exchange example; no full route",
+      "limitations": "Pickup and description are single official source; combat exchange has independent corroboration. No complete entrance-to-item route, range or target catalogue.",
+      "source_ids": [
+        "gtP9qErKUNI",
+        "tPOV3h2anQA"
+      ],
+      "internal_links": [
+        "02-copy-and-spawn.md",
+        "08-cronos.md"
+      ],
+      "image_need": "Original schematic or permission-cleared game capture; private research frames are not cleared publication assets",
+      "schema": "Article + BreadcrumbList only when implemented accurately; no fabricated review/rating",
+      "interaction": "Anchored headings and source timestamp links",
+      "word_count": 447,
+      "original_id": "IOR-EXP-12",
+      "original_file": "20260907-ten-page-expansion\\pages\\12-rift-wand.md",
+      "original_sha256": "7e13987ab4d3156d74dcb6735e4581a5e89d48c67de50426a4e8e0c4bbe53e41",
+      "publication_decision": "ready_within_scope",
+      "keyword_gate": "structural_disposition_received; formal search-volume/opportunity acceptance remains separate",
+      "review_changes": [
+        "标题不承诺完整位置路线；官方道具文本已实读"
+      ],
+      "review_method": "Direct reread of source documents and targeted local video frames; not hands-on gameplay",
+      "reviewed_date": "2026-09-07",
+      "original_ids": [
+        "IOR-EXP-12"
+      ],
+      "original_fact_id": "F12",
+      "fact_ids": [
+        "REVIEW-RIFT-TEXT",
+        "REVIEW-CRONOS-SWAP"
+      ],
+      "facts_file": "facts.json"
+    },
+    {
+      "id": "IOR-EXP-13",
+      "file": "pages/13-clawncher.md",
+      "url": "/guides/clawncher/",
+      "title": "Claw’ncher: Pickup Room and Pulling Uses",
+      "seo_title": "Isle of Reveries Claw’ncher: Pickup Room and Pulling Uses",
+      "seo_description": "Identify the Claw’ncher chest room, equip the tool and use its pulling action on the nearby bridge and documented boss openings.",
+      "query": "Isle of Reveries Clawncher location how to use",
+      "query_origin": "research-derived; user authorized expanded scope",
+      "demand_status": "unvalidated",
+      "content_status": "ready_for_build",
+      "publishable_scope": "Final chest-room landmarks, pull instruction, nearby bridge result and boss uses; no full route",
+      "limitations": "Pickup and first puzzle use are single official source. Independent Strix footage corroborates combat extraction; no full item route or target catalogue.",
+      "source_ids": [
+        "FtdR-AmXyuw",
+        "AoBWijuLUzQ",
+        "tPOV3h2anQA"
+      ],
+      "internal_links": [
+        "06-strix.md",
+        "09-arbiter.md"
+      ],
+      "image_need": "Original schematic or permission-cleared game capture; private research frames are not cleared publication assets",
+      "schema": "Article + BreadcrumbList only when implemented accurately; no fabricated review/rating",
+      "interaction": "Anchored headings and source timestamp links",
+      "word_count": 416,
+      "original_id": "IOR-EXP-13",
+      "original_file": "20260907-ten-page-expansion\\pages\\13-clawncher.md",
+      "original_sha256": "7ef359bc45dcf2bf286fe59524eb27a97cb3e31dc3156edddb26e755b9435c08",
+      "publication_decision": "ready_within_scope",
+      "keyword_gate": "structural_disposition_received; formal search-volume/opportunity acceptance remains separate",
+      "review_changes": [
+        "删除无支持的“入口在左”；收窄标题；保留拉取桥与Boss应用"
+      ],
+      "review_method": "Direct reread of source documents and targeted local video frames; not hands-on gameplay",
+      "reviewed_date": "2026-09-07",
+      "original_ids": [
+        "IOR-EXP-13"
+      ],
+      "original_fact_id": "F13",
+      "fact_ids": [
+        "REVIEW-CLAW",
+        "REVIEW-STRIX"
+      ],
+      "facts_file": "facts.json"
+    },
+    {
+      "id": "IOR-EXP-15",
+      "file": "pages/15-gaki-after-miasma.md",
+      "url": "/guides/gaki-after-miasma/",
+      "title": "Isle of Reveries Gaki: What to Do After Clearing the Miasma",
+      "seo_title": "Isle of Reveries Gaki: What to Do After Clearing the Miasma",
+      "seo_description": "Confirm the mine miasma-clearing message, return to Gaki and follow the recovery and reward sequence.",
+      "query": "Isle of Reveries Gaki miasma cure",
+      "query_origin": "research-derived; user authorized expanded scope",
+      "demand_status": "unvalidated",
+      "content_status": "ready_for_build",
+      "publishable_scope": "Post-clearing return, recovery and reward; not full cleansing route",
+      "limitations": "Developer source connects clearing to recovery; independent clip corroborates recovery but cuts the prerequisite route. No full mine solution or early-fight invulnerability claim.",
+      "source_ids": [
+        "DyXuZp3hzQs",
+        "tPOV3h2anQA"
+      ],
+      "internal_links": [],
+      "image_need": "Original schematic or permission-cleared game capture; private research frames are not cleared publication assets",
+      "schema": "Article + BreadcrumbList only when implemented accurately; no fabricated review/rating",
+      "interaction": "Anchored headings and source timestamp links",
+      "word_count": 395,
+      "original_id": "IOR-EXP-15",
+      "original_file": "20260907-ten-page-expansion\\pages\\15-gaki-after-miasma.md",
+      "original_sha256": "b54cc3307623a23adc770944a51b05e3b863ed114a66f644bee443707b9a57af",
+      "publication_decision": "ready_within_scope",
+      "keyword_gate": "structural_disposition_received; formal search-volume/opportunity acceptance remains separate",
+      "review_changes": [
+        "保留清除后回访范围；删除把未核实前置行为变成诊断的段落"
+      ],
+      "review_method": "Direct reread of source documents and targeted local video frames; not hands-on gameplay",
+      "reviewed_date": "2026-09-07",
+      "original_ids": [
+        "IOR-EXP-15"
+      ],
+      "original_fact_id": "F15",
+      "fact_ids": [
+        "REVIEW-GAKI"
+      ],
+      "facts_file": "facts.json"
+    }
+  ],
+  "source_map": [
+    {
+      "original_id": "IOR-EXP-01",
+      "final_file": "pages/01-getting-started.md",
+      "final_page_id": "IOR-EXP-01",
+      "disposition": "retain_scoped_after_followup",
+      "original_sha256": "3c4d34f94d15d701e0f4c7bddcb2085588b061b1ca41444054c43db95c8ec864"
+    },
+    {
+      "original_id": "IOR-EXP-02",
+      "final_file": "pages/02-copy-and-spawn.md",
+      "final_page_id": "IOR-EXP-02",
+      "disposition": "retain_scoped",
+      "original_sha256": "4e160998f4c2aa5be94b25b7228758cc0ef4f04b57114d06e108bfa2cbde7ef6"
+    },
+    {
+      "original_id": "IOR-EXP-03",
+      "final_file": "pages/03-pilgrims-sanctum.md",
+      "final_page_id": "IOR-EXP-03",
+      "disposition": "retain_scoped",
+      "original_sha256": "691de23c3ad92d515af9565996ad7992aab4545347f836add834a6347edb9b1d"
+    },
+    {
+      "original_id": "IOR-EXP-04",
+      "final_file": "pages/04-fermata.md",
+      "final_page_id": "IOR-EXP-04",
+      "disposition": "retain_scoped",
+      "original_sha256": "4a4f0eec42239e2abeac2fbf27b9464325bd9b87453f424873ffb77423db3770"
+    },
+    {
+      "original_id": "IOR-EXP-05",
+      "final_file": "pages/05-overgrown-shrine.md",
+      "final_page_id": "IOR-EXP-05",
+      "disposition": "retain_scoped",
+      "original_sha256": "cd8b7e7ce10582cdaa1472c5bc8d6e3ba0f7eeea967b85435d0584f5ea686a6f"
+    },
+    {
+      "original_id": "IOR-EXP-06",
+      "final_file": "pages/06-strix.md",
+      "final_page_id": "IOR-EXP-06",
+      "disposition": "retain_scoped",
+      "original_sha256": "26bd28eaf320a8ded6905af7c4be34f92fedb18b283d86ba8a5c341dab590a8a"
+    },
+    {
+      "original_id": "IOR-EXP-07",
+      "final_file": "pages/07-fiend-shen.md",
+      "final_page_id": "IOR-EXP-07",
+      "disposition": "retain_scoped",
+      "original_sha256": "698f41acb65b5b8e802bf8fec58815ea80804bc8674a76daed8565862d849568"
+    },
+    {
+      "original_id": "IOR-EXP-08",
+      "final_file": "pages/08-cronos.md",
+      "final_page_id": "IOR-EXP-08",
+      "disposition": "retain_scoped",
+      "original_sha256": "cdd6591c8acfdba083a175baa120605483468c188b4872be0993bd446b886303"
+    },
+    {
+      "original_id": "IOR-EXP-09",
+      "final_file": "pages/09-arbiter.md",
+      "final_page_id": "IOR-EXP-09",
+      "disposition": "retain_scoped",
+      "original_sha256": "92f45a3985e1821405a7e9d6f29a9625fd7a0b4eedada6863b30a8ec5f5801a4"
+    },
+    {
+      "original_id": "IOR-EXP-10",
+      "final_file": "pages/10-controller-help.md",
+      "final_page_id": "IOR-EXP-10",
+      "disposition": "retain_scoped",
+      "original_sha256": "3d7202adc97e3de0648c08e043e3d6491c324520c69ec1065a35783977127d0f"
+    },
+    {
+      "original_id": "IOR-EXP-11",
+      "final_file": "pages/11-swimming.md",
+      "final_page_id": "IOR-EXP-11",
+      "disposition": "retain_scoped",
+      "original_sha256": "44074c2264a14f17e745387f230b75d2e9bd8ee429d204fc87dd956794a948d5"
+    },
+    {
+      "original_id": "IOR-EXP-12",
+      "final_file": "pages/12-rift-wand.md",
+      "final_page_id": "IOR-EXP-12",
+      "disposition": "retain_scoped",
+      "original_sha256": "7e13987ab4d3156d74dcb6735e4581a5e89d48c67de50426a4e8e0c4bbe53e41"
+    },
+    {
+      "original_id": "IOR-EXP-13",
+      "final_file": "pages/13-clawncher.md",
+      "final_page_id": "IOR-EXP-13",
+      "disposition": "retain_scoped",
+      "original_sha256": "7ef359bc45dcf2bf286fe59524eb27a97cb3e31dc3156edddb26e755b9435c08"
+    },
+    {
+      "original_id": "IOR-EXP-14",
+      "final_file": "pages/01-getting-started.md",
+      "final_page_id": "IOR-EXP-01",
+      "disposition": "merged_after_followup",
+      "original_sha256": "b886b3b91c9052a2c4e9258faa7458a7ad68b78f1af7cde9217bb2dc4d8f7d5c"
+    },
+    {
+      "original_id": "IOR-EXP-15",
+      "final_file": "pages/15-gaki-after-miasma.md",
+      "final_page_id": "IOR-EXP-15",
+      "disposition": "retain_scoped",
+      "original_sha256": "b54cc3307623a23adc770944a51b05e3b863ed114a66f644bee443707b9a57af"
+    }
+  ]
+}

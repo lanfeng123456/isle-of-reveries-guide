@@ -1,0 +1,130 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "status": 200
+    },
+    {
+      "route": "/guides/",
+      "status": 200
+    },
+    {
+      "route": "/dungeons/",
+      "status": 200
+    },
+    {
+      "route": "/bosses/",
+      "status": 200
+    },
+    {
+      "route": "/guides/getting-started/",
+      "status": 200
+    },
+    {
+      "route": "/guides/copy-and-spawn/",
+      "status": 200
+    },
+    {
+      "route": "/dungeons/pilgrims-sanctum/",
+      "status": 200
+    },
+    {
+      "route": "/bosses/fermata/",
+      "status": 200
+    },
+    {
+      "route": "/dungeons/overgrown-shrine/",
+      "status": 200
+    },
+    {
+      "route": "/bosses/strix/",
+      "status": 200
+    },
+    {
+      "route": "/bosses/fiend-shen/",
+      "status": 200
+    },
+    {
+      "route": "/bosses/cronos/",
+      "status": 200
+    },
+    {
+      "route": "/bosses/arbiter-of-reveries/",
+      "status": 200
+    },
+    {
+      "route": "/guides/controller-not-working/",
+      "status": 200
+    },
+    {
+      "route": "/guides/swimming/",
+      "status": 200
+    },
+    {
+      "route": "/guides/rift-wand/",
+      "status": 200
+    },
+    {
+      "route": "/guides/clawncher/",
+      "status": 200
+    },
+    {
+      "route": "/guides/gaki-after-miasma/",
+      "status": 200
+    }
+  ],
+  "captures": [
+    {
+      "name": "home-desktop",
+      "route": "/",
+      "status": 200,
+      "viewport": "1440x1100"
+    },
+    {
+      "name": "home-mobile",
+      "route": "/",
+      "status": 200,
+      "viewport": "390x844"
+    },
+    {
+      "name": "article-desktop",
+      "route": "/bosses/cronos/",
+      "status": 200,
+      "viewport": "1440x1100"
+    },
+    {
+      "name": "article-mobile",
+      "route": "/bosses/cronos/",
+      "status": 200,
+      "viewport": "390x844"
+    },
+    {
+      "name": "not-found",
+      "route": "/404-does-not-exist/",
+      "status": 404,
+      "viewport": "1100x800"
+    }
+  ],
+  "assets": [
+    {
+      "route": "/favicon.ico",
+      "status": 200,
+      "contentType": "image/x-icon"
+    },
+    {
+      "route": "/favicon-32.png",
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "route": "/apple-touch-icon.png",
+      "status": 200,
+      "contentType": "image/png"
+    },
+    {
+      "route": "/icon-512.png",
+      "status": 200,
+      "contentType": "image/png"
+    }
+  ]
+}
