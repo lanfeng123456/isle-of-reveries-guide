@@ -79,10 +79,17 @@ function breadcrumbSchema(items) {
   };
 }
 
+function buildMetaKeywords(keywords, maxLength = 100) {
+  const selected = [];
+  for (const keyword of new Set(keywords.map((value) => String(value).trim()).filter(Boolean))) {
+    const candidate = [...selected, keyword].join(", ");
+    if ([...candidate].length <= maxLength) selected.push(keyword);
+  }
+  return selected.join(", ");
+}
+
 function layout({ title, description, keywords = [], canonical, body, structuredData = [], bodyClass = "", pageType = "website", robots = "index,follow" }) {
-  const metaKeywords = [...new Set(keywords.map((keyword) => String(keyword).trim()).filter(Boolean))]
-    .slice(0, 8)
-    .join(", ");
+  const metaKeywords = buildMetaKeywords(keywords);
   const jsonLd = structuredData
     .map((item) => `<script type="application/ld+json">${JSON.stringify(item).replaceAll("<", "\\u003c")}</script>`)
     .join("\n");

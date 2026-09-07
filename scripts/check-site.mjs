@@ -24,6 +24,8 @@ for (const route of expectedRoutes) {
   for (const required of requiredMarkup) {
     if (!html.includes(required)) errors.push(`${route} missing ${required}`);
   }
+  const keywords = html.match(/<meta name="keywords" content="([^"]*)">/)?.[1] || "";
+  if ([...keywords].length > 100) errors.push(`${route} keywords exceed 100 characters`);
   const hrefs = [...html.matchAll(/href="(\/[^"#?]*)/g)].map((match) => match[1]);
   for (const href of hrefs) {
     if (/\.[a-z0-9]+$/i.test(href)) {
