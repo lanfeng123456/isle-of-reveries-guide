@@ -2,6 +2,14 @@
 
 Static English guide site generated from the reviewed 14-page content package dated September 7, 2026.
 
+## Production
+
+- Canonical site: `https://isleofreveries.site`
+- Vercel fallback URL: `https://isle-of-reveries-guide.vercel.app`
+- Analytics: Google Analytics 4, measurement ID `G-LVPEX9E4KB`
+
+The custom domain is attached to the Vercel project. Its apex DNS must point to Vercel before the canonical URL becomes reachable.
+
 ## Local preview
 
 ```powershell
