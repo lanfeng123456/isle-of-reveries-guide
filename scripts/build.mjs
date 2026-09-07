@@ -79,7 +79,10 @@ function breadcrumbSchema(items) {
   };
 }
 
-function layout({ title, description, canonical, body, structuredData = [], bodyClass = "", pageType = "website", robots = "index,follow" }) {
+function layout({ title, description, keywords = [], canonical, body, structuredData = [], bodyClass = "", pageType = "website", robots = "index,follow" }) {
+  const metaKeywords = [...new Set(keywords.map((keyword) => String(keyword).trim()).filter(Boolean))]
+    .slice(0, 8)
+    .join(", ");
   const jsonLd = structuredData
     .map((item) => `<script type="application/ld+json">${JSON.stringify(item).replaceAll("<", "\\u003c")}</script>`)
     .join("\n");
@@ -99,6 +102,7 @@ function layout({ title, description, canonical, body, structuredData = [], body
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>${escapeHtml(title)}</title>
   <meta name="description" content="${escapeHtml(description)}">
+  ${metaKeywords ? `<meta name="keywords" content="${escapeHtml(metaKeywords)}">` : ""}
   <meta name="robots" content="${escapeHtml(robots)}">
   <meta name="theme-color" content="${config.themeColor}">
   <link rel="canonical" href="${escapeHtml(canonical)}">
@@ -201,6 +205,7 @@ function homePage() {
   return layout({
     title: `${config.name} — Puzzles, Bosses & Equipment`,
     description: config.description,
+    keywords: ["Isle of Reveries guide", "Isle of Reveries walkthrough", "Isle of Reveries puzzles", "Isle of Reveries bosses", "Isle of Reveries equipment"],
     canonical: absoluteUrl("/"),
     body,
     structuredData: [{
@@ -231,6 +236,9 @@ function listingPage(category = null) {
   return layout({
     title: category ? `Isle of Reveries ${info.label} Guides | ${config.shortName}` : `Isle of Reveries Guides: Puzzles, Bosses & Items`,
     description: info.seoDescription,
+    keywords: category
+      ? [`Isle of Reveries ${info.label.toLowerCase()}`, ...selected.slice(0, 5).map((page) => page.query)]
+      : ["Isle of Reveries guides", "Isle of Reveries walkthrough", "Isle of Reveries puzzle guide", "Isle of Reveries boss guide", "Isle of Reveries items"],
     canonical: absoluteUrl(route),
     body,
     structuredData: [breadcrumbSchema(crumbs), {
@@ -325,6 +333,7 @@ function articlePage(page) {
   return layout({
     title: page.seo_title.length < 50 ? `${page.seo_title} | ${config.shortName}` : page.seo_title,
     description: page.seo_description,
+    keywords: [page.query, page.seo_title, `Isle of Reveries ${category.label.toLowerCase()}`],
     canonical: absoluteUrl(page.url),
     body,
     structuredData: [articleSchema, breadcrumbSchema(breadcrumbs)],

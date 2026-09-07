@@ -19,7 +19,7 @@ for (const route of expectedRoutes) {
     continue;
   }
   const html = fs.readFileSync(file, "utf8");
-  const requiredMarkup = ['<meta name="description"', '<link rel="canonical"', 'href="/favicon.ico"', 'googletagmanager.com/gtag/js?id=G-LVPEX9E4KB', "gtag('config', 'G-LVPEX9E4KB')"];
+  const requiredMarkup = ['<meta name="description"', '<meta name="keywords"', '<link rel="canonical"', 'href="/favicon.ico"', 'googletagmanager.com/gtag/js?id=G-LVPEX9E4KB', "gtag('config', 'G-LVPEX9E4KB')"];
   if (route !== "/") requiredMarkup.push('application/ld+json');
   for (const required of requiredMarkup) {
     if (!html.includes(required)) errors.push(`${route} missing ${required}`);
