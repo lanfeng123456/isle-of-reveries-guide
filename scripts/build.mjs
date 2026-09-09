@@ -102,6 +102,10 @@ function layout({ title, description, keywords = [], canonical, body, structured
     gtag('config', '${escapeHtml(config.googleAnalyticsId)}');
   </script>`
     : "";
+  const adSlot = `<section class="ad-slot" aria-label="Advertisement">
+    <script async="async" data-cfasync="false" src="https://pl31263720.profitableratecpmnetwork.com/378c33620c3a82c82a3c97b58a404926/invoke.js"></script>
+    <div id="container-378c33620c3a82c82a3c97b58a404926"></div>
+  </section>`;
   return `<!doctype html>
 <html lang="${config.language}">
 <head>
@@ -147,6 +151,7 @@ function layout({ title, description, keywords = [], canonical, body, structured
       </nav>
     </div>
   </header>
+  ${adSlot}
   ${body}
   <footer class="site-footer">
     <div class="footer-inner">
